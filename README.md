@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Edward Amartey</h1>
+<h1 align="left">Hi 👋, I'm Edward</h1>
 <h3 align="left">A driven and dedicated developer, turning ideas into applications, solving problems</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
